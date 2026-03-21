@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
