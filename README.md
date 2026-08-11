@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0070-climbing-stairs) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
