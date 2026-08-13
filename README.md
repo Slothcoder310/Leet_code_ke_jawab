@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
