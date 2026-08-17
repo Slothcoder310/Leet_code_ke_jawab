@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Bit Manipulation
 |  |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Stack
 |  |
