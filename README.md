@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0507-perfect-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
