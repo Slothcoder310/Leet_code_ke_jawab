@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0162-find-peak-element) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
