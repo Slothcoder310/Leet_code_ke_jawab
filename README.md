@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
+| [0461-hamming-distance](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
