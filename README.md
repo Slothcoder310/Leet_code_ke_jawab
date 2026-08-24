@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0461-hamming-distance) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
