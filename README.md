@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0162-find-peak-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Stack
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
