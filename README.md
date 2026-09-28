@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0020-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0102-binary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
