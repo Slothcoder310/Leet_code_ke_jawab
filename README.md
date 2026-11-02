@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0138-copy-list-with-random-pointer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Slothcoder310/Leet_code_ke_jawab/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
